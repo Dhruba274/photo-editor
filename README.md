@@ -23,10 +23,7 @@ Combine multiple photos into a single collage using our intuitive collage maker.
 - ### Save and Share:
  Save your edited photos directly or share them on social media platforms with just a click. Showcase your creativity and get feedback from friends and followers.
 
-## Repository Link
 
-
-https://github.com/Dhruba274/photo-editor
 
 
 ## Authors
@@ -35,5 +32,6 @@ https://github.com/Dhruba274/photo-editor
 - [SAMRAT GHOSH](https://github.com/Samratghosh2004)
 - [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274)
 - [INDRANI SOM](https://github.com/IndraniSom)
+
 
 
